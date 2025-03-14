@@ -6,7 +6,7 @@
 - 🌱 I’m always learning new technologies to expand my skill set.
 - 💬 Ask me about **React, Next.js, Node.js, Tailwind CSS, and Game Development**.
 - 🎮 Passionate about **creating interactive and engaging applications**.
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/yourprofile) | [Twitter](https://twitter.com/yourhandle)  
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/qaiem-mehdi) | [Instagram](https://instagram.com/qaiem_mehdi) 
 
 ## ⚡ Tech Stack
 
