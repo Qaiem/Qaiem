@@ -2,7 +2,7 @@
 
 ## 🚀 Software Engineer & Passionate Full-Stack Developer  
 
-- 🔭 I’m currently working on **diverse projects** across **Web, Mobile, Game & Desktop Development**.
+- 🔭 I’m currently working on **diverse projects** across **Web, Mobile**.
 - 🌱 I’m always learning new technologies to expand my skill set.
 - 💬 Ask me about **React, Next.js, Node.js, Tailwind CSS, and Game Development**.
 - 🎮 Passionate about **creating interactive and engaging applications**.
