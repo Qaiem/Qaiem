@@ -6,7 +6,7 @@
 - 🌱 I’m always learning new technologies to expand my skill set.
 - 💬 Ask me about **React, Next.js, Node.js, Express.js, Nest.js, Tailwind CSS, C#, Python, Django**.
 - 🎮 Passionate about **creating interactive and engaging applications**.
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/qaiem-mehdi) | [Instagram](https://instagram.com/qaiem-mehdi)  
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/qaiem-mehdi) | [Vercel](https://vercel.com/qaiems-projects)  
 
 ## ⚡ Tech Stack
 
@@ -24,6 +24,12 @@
 ![Nest.js](https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+### 💻 MERN-Stack
+![React](https://img.shields.io/badge/React-007ACC?style=flat&logo=react&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
 
 ### 📱 Mobile
